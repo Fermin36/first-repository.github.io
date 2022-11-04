@@ -1,0 +1,13 @@
+
+body{
+    width: 62,5%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background: rgba(91, 39, 139, 0.589);
+}
+.head{
+    width: 100%;
+    height: 100px;
+    background: rgba(51, 1, 1, 0.363);
+}
